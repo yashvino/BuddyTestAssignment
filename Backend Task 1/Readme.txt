@@ -1,2 +1,3 @@
 Steps to execute: 
-    Run this terminal
+    Run npm i to install the dependencies and node modules
+    Execute using npm jest
